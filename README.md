@@ -28,11 +28,11 @@ jupyter notebook
 
 ## Authors
 
-Jerry
-Patrick
-An
-Miranda
-Ishgun
+- Jerry
+- Patrick
+- An
+- Miranda
+- Ishgun
 
 ## Acknowledgement
 
